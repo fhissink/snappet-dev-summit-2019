@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "amd",
+		"sourceMap": true,
+		"lib": [
+			"es2015",
+			"es2015.iterable",
+			"dom",
+			"scripthost"
+		]
+	},
+	"include": [
+		"app/**/*"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
