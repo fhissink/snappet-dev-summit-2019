@@ -1,17 +1,19 @@
 # Snappet dev-summit 2019
 
-Requirements:
+### Requirements:
 
 - Node.js (<https://nodejs.org/en/>)
 - IDE (preferably: <https://code.visualstudio.com/>)
 
-Getting started:
+### Getting started:
 
 - Run: `npm install`
 - Run: `npm run start`
 - Open a browser and navigate to <http://localhost:5000>
 
-Start the hands on:
+### Start the hands on:
 - Go to `./app/main.ts`
 - Find the `start()` function
 - Follow the steps described
+
+<em>**Really stuck?** See .create-map-completed for a working solution</em>
