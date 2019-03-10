@@ -1,1 +1,0 @@
-{"version":3,"file":"popup-template.js","sourceRoot":"","sources":["popup-template.ts"],"names":[],"mappings":";;;IAAa,QAAA,QAAQ,GAAG;QACvB,KAAK,EAAE,mBAAmB;QAC1B,OAAO,EAAE,CAAC;gBACT,IAAI,EAAE,QAAQ;gBACd,UAAU,EAAE,CAAC;wBACZ,SAAS,EAAE,YAAY;wBACvB,KAAK,EAAE,MAAM;wBACb,OAAO,EAAE,IAAI;qBACb,CAAC;aACF,CAAC;KACF,CAAC"}
