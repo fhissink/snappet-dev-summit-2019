@@ -13,16 +13,21 @@ export class App {
 	// Start here...
 	// This function is being called from index.html
 	start() {
+		// Follow the steps describe in the createMap() function
 		this.createMap();
 
+		// After creating a map add a layer
 		this.addLayerToMap();
 
+		// When a user clicks on the map, act on it
 		this.registerClickHandler();
 
-		// optional
+		// When you're done and there is time left
+		// Add a Legend
 		this.addLegend();
 
-		// optional
+		// When there is still time left...
+		// Add a popup
 		this.addPopup();
 	}
 
